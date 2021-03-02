@@ -1,3 +1,12 @@
+### My Blog Articles
+
+[![Blog](https://img.shields.io/website?color=f74539&style=flat-square&up_message=Ataru Kodaka Site&url=https%3A%2F%2Fatarukodaka.github.io)](https://atarukodaka.github.io) 
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ataru_kodaka/contributions.svg)](http://qiita.com/ataru_kodaka) 
+
+### Reach me on
+
+ [![Gmail](https://img.shields.io/badge/-ataru.kodaka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ataru.kodaka@gmail.com)](mailto:ataru.kodaka@gmail.com) 
+ [![Twitter](https://img.shields.io/badge/-@ataru_kodaka-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/ataru_kodaka) 
 
 ### States
 
